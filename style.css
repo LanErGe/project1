@@ -1,0 +1,60 @@
+.qw {
+    border: 8px double green;
+    text-transform: uppercase;
+}
+.er {
+    border: 8px solid red;
+    background-image: linear-gradient(to right,yellow,green);
+    text-transform: uppercase;
+    text-align: right;
+}
+.ty {
+color: pink;
+border: 4px solid firebrick;
+list-style-position: inside;
+}
+.ui {
+    color: blueviolet;
+    font-size: 22px;
+}
+.op {
+    color: red;
+}
+.sa {
+    color: green;
+}
+.df {
+    margin-bottom: 14px;
+    background-color: mediumorchid;
+}
+.gh {
+    list-style: none;
+    text-shadow: 5px 5px 4px red;
+    color: blue;
+}
+.mika li:first-child {
+color: aqua;
+}
+    .mika li:last-child {
+        color: gold;
+    }
+    .mika li:nth-child(2) {
+        color: indigo;
+    }
+    .kadzuha img {
+        width: 400px;
+        display: block;
+        margin: 20px;
+    }
+    .kadzuha {
+        background-color: pink;
+        border-top: 6px solid black;
+        border-bottom: 6px dashed black;
+    }
+    .kadzuha img:nth-child(2) {
+        opacity:0.5;
+    }
+    .kadzuha img:nth-child(3) {
+        border: 6px solid black;
+    }
+    
